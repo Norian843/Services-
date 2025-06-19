@@ -1,0 +1,6 @@
+{
+  "name": "Servicios Rápidos",
+  "description": "A social media application inspired by X, featuring AI-powered content generation with Gemini. Users can create posts, comment, like, and interact in a familiar interface.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
